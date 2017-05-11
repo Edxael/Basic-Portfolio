@@ -14,9 +14,13 @@ body{
     text-align: center;
 }
 
+
+
 .main-container{
     margin: 2% 15%;
 }
+
+
 
 .title{
     font-weight: bolder;
@@ -24,16 +28,22 @@ body{
     margin: -5px 0px;
 }
 
-.doc{
-    border: 3px solid black;
-    width: 70%;
-    height: 700px;
-}
-
-
 ul{
   list-style-type: none;
 }
+
+
+
+
+
+
+.pro-pic{
+    width: 270px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+
 
 .pro{
     border: 1px solid black;
@@ -43,12 +53,19 @@ ul{
     margin-bottom: 20px;
 }
 
-.pro-pic{
-    width: 270px;
-    height: 150px;
-    border: 2px solid black;
-}
+
 
 .pro-left{
     margin-right: 15px;
+}
+
+
+
+
+
+
+.doc{
+    border: 3px solid black;
+    width: 70%;
+    height: 700px;
 }
